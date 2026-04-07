@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 SmartFinanceAI – AI Powered Personal Finance Assistant
 
 SmartFinanceAI is a full-stack web application that helps users manage their finances efficiently using AI-driven insights. It allows users to track expenses, analyze spending patterns, and receive intelligent financial suggestions.
@@ -54,3 +55,7 @@ Monisha
 
 GitHub: https://github.com/Monishaclement
 LinkedIn: https://www.linkedin.com/in/monisha-c-b36ab6295/
+=======
+# smartfinanceai
+Built a MERN-based finance tracker with AI integration to analyze spending patterns and deliver intelligent budgeting suggestions.
+>>>>>>> e014c55d9376660da283fa250edd6a99c9a681d1
